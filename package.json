@@ -1,6 +1,6 @@
 {
   "name": "ez-nuxtjs-axios-ie",
-  "version": "1.0.4",
+  "version": "1.0.7",
   "description": "easy use @nuxtjs/axios in IE11",
   "main": "lib/module.js",
   "scripts": {
